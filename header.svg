@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" role="img" aria-labelledby="t d">
+<title id="t">Krishiv Ramchandani</title>
+<desc id="d">Equity research, financial modelling and quantitative finance. A line draws across a faint grid.</desc>
+<style>
+:root{--bg:#fafaf7;--fg:#14181f;--mut:#5b6472;--ln:#1f5c4a;--grid:#d9dcd6}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--mut:#8b949e;--ln:#5fd0a5;--grid:#262c34}}
+.t{font:600 30px Georgia,'Times New Roman',serif;fill:var(--fg)}
+.s{font:400 15px Georgia,'Times New Roman',serif;fill:var(--mut);letter-spacing:.04em}
+.g{stroke:var(--grid);stroke-width:1}
+.l{fill:none;stroke:var(--ln);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:900;stroke-dashoffset:900;animation:d 2.4s ease-out .3s forwards}
+@keyframes d{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;stroke-dashoffset:0}}
+</style>
+<rect width="800" height="160" fill="var(--bg)"/>
+<g class="g"><path d="M0 40H800M0 80H800M0 120H800M200 0V160M400 0V160M600 0V160"/></g>
+<path class="l" pathLength="900" d="M20 128 L110 112 L190 120 L280 88 L360 96 L450 62 L540 74 L630 44 L720 52 L780 30"/>
+<text class="t" x="32" y="62">Krishiv Ramchandani</text>
+<text class="s" x="32" y="92">EQUITY RESEARCH · FINANCIAL MODELLING · QUANT</text>
+</svg>
